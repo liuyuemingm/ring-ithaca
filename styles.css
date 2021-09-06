@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya&display=swap');
+@import '../fonts/MONARCHI.TTF';
+@font-face {
+  font-family: 'Monarchi';
+  src: local('Monarchi'), url(./fonts/MONARCHI.TTF) format('truetype');
+}
+@font-face {
+  font-family: 'FlowersInitials';
+  src: local('FlowersInitials'), url(./fonts/FlowersInitials.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'KellyAnnGothic';
+  src: local('KellyAnnGothic'), url(./fonts/KellyAnnGothic.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'RoyalGothic';
+  src: local('RoyalGothic'), url(./fonts/RoyalGothic.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sketch-Gothic-School';
+  src: local('Sketch-Gothic-School'), url(./fonts/Sketch-Gothic-School.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TendrilsDemo';
+  src: local('TendrilsDemo'), url(./fonts/TendrilsDemo.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'ZallmanCaps';
+  src: local('ZallmanCaps'), url(./fonts/ZallmanCaps.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Zengo';
+  src: local('Zengo'), url(./fonts/Zengo.ttf) format('truetype');
+}
+
+@-webkit-keyframes rotating {
+    from{
+        -webkit-transform: rotate(0deg);
+    }
+    to{
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+
+body {
+  margin:0;
+  min-height: 100vh;
+  font-family: 'Alegreya', serif !important; 
+  background-color: #252525;
+  font-size: '50px';
+  color: '#C08FFF';
+}
