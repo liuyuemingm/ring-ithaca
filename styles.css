@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Alegreya&display=swap');
-@import '../fonts/MONARCHI.TTF';
+/* @import '../fonts/MONARCHI.TTF'; */
 @font-face {
   font-family: 'Monarchi';
   src: local('Monarchi'), url(./fonts/MONARCHI.TTF) format('truetype');
