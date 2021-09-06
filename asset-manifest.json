@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ring-ithaca/static/css/main.a617e044.chunk.css",
+    "main.js": "/ring-ithaca/static/js/main.9e06f79b.chunk.js",
+    "main.js.map": "/ring-ithaca/static/js/main.9e06f79b.chunk.js.map",
+    "runtime-main.js": "/ring-ithaca/static/js/runtime-main.bdc122f7.js",
+    "runtime-main.js.map": "/ring-ithaca/static/js/runtime-main.bdc122f7.js.map",
+    "static/js/2.d5c96800.chunk.js": "/ring-ithaca/static/js/2.d5c96800.chunk.js",
+    "static/js/2.d5c96800.chunk.js.map": "/ring-ithaca/static/js/2.d5c96800.chunk.js.map",
+    "static/js/3.8a2742e0.chunk.js": "/ring-ithaca/static/js/3.8a2742e0.chunk.js",
+    "static/js/3.8a2742e0.chunk.js.map": "/ring-ithaca/static/js/3.8a2742e0.chunk.js.map",
+    "index.html": "/ring-ithaca/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/ring-ithaca/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.d5c96800.chunk.js.LICENSE.txt": "/ring-ithaca/static/js/2.d5c96800.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ring-ithaca/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdc122f7.js",
+    "static/js/2.d5c96800.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.9e06f79b.chunk.js"
+  ]
+}
